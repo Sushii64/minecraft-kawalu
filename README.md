@@ -1,13 +1,15 @@
-# vyrnith-minecraft
-Minecraft translated to Vyrnith
+# minecraft-kawalu
+Minecraft translated to Kawalu
 
 ## What the hell is this?
-Vyrnith is a constructed language by Noodle, a friend of mine.
-[Read the Guide here](https://docs.google.com/document/d/1oRcdlqmnrJVA9K94yWCCe-S5gdoW2v3AlB_gN52k1Mg/edit) or [Join the Vyrnith Discord community here.](https://discord.gg/gr3S2tgbve)
+Kawalu is a constructed language. Because yes.
 
 ## Usage
-Click Code, and then click Download ZIP. Extract it and copy the ``vyrnith-minecraft-main`` folder to your resourcepacks folder.
+Click Code, and then click Download ZIP. Extract it and copy the ``minecraft-kawalu-main`` folder to your resourcepacks folder.
 
-Apply the resource pack in the Settings, then go back and click Language and select ``vurnith (Willow)`` and click Done.
+Apply the resource pack in the Settings, then go back and click Language and select ``kawalu (Willow)`` and click Done.
 
-All currently translated strings will then be changed to Vyrnith.
+All currently translated strings will then be changed to Kawalu.
+
+## Credits
+Credits to my friend [Luna](https://github.com/lunakittyyy) for making the original project many moons ago, before I remade the whole language from the ground up

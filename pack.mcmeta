@@ -1,12 +1,12 @@
 {
   "pack": {
-    "pack_format": 15,
-    "description": "Add Vyrnith to Minecraft!"
+    "pack_format": 22,
+    "description": "Add Kawalu to Minecraft!"
   },
-  
+
   "language":{
-	"vy_wi":{
-		"name":"vurnith",
+	"kwu_wl":{
+		"name":"kawalu",
 		"region":"Willow",
 		"bidirectional":false
 	}
